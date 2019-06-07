@@ -23,4 +23,5 @@ Shut down and cleans up containers, networks, services, running scripts:
 | deploy | Deploys the Smart Contracts |
 | oracle | Launches Oracle containers |
 | ui | Launches UI containers |
+| monitor | Launches Monitor containers |
 | blocks | Auto mines blocks |
