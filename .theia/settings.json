@@ -1,0 +1,10 @@
+{
+   "editor.autoSave": "on",
+   "go.addTags": {
+      "tags": "json",
+      "options": "json=omitempty",
+      "promptForTags": false,
+      "transform": "snakecase"
+   },
+   "go.lintTool": "golint"
+}
